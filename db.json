@@ -231,6 +231,42 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 3723200,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Some event",
+      "description": "description",
+      "location": "near here",
+      "date": "2020-04-09T12:07:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 5414570,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "asdf",
+      "description": "asdf",
+      "location": "asdf",
+      "date": "2020-04-04T17:01:00.000Z",
+      "time": "24:00",
+      "attendees": []
     }
   ]
 }
