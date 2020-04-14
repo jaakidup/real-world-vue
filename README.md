@@ -1,4 +1,4 @@
-# real-world-vue
+<!-- # real-world-vue
 
 ## Following along?
 
@@ -41,4 +41,4 @@ npm run build
 
 ```
 npm run lint
-```
+``` -->
